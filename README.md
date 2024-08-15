@@ -26,7 +26,7 @@ This is a simple weather application built using Python's Tkinter library. The a
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/weather-app.git
+   git clone https://github.com/Darshanit/OTP_Generator.git
    cd weather-app
    ```
 
